@@ -23,10 +23,8 @@
 .bottom--2 { bottom: -2rem; }
 .left--2   { left:   -2rem; }
 
-.nav-box-closed { right: -20rem;}
-.nav-box-open   { right:0       ;}
-
-
+.nav-box-closed { right: -40rem;}
+.nav-box-open   { right:0rem;}
 .absolute--fill {
   top: 0;
   right: 0;

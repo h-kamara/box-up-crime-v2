@@ -40,6 +40,14 @@
   background-color: var(--primary);
 }
 
+.bg-red {
+  background-color: rgb(237, 83, 83);
+}
+
+.bg-light-red {
+  background-color: rgb(239, 67, 67);
+}
+
 .bg-highlight {
   background-color: var(--highlight);
 }
