@@ -92,3 +92,7 @@ background-color: pink;
     box-shadow: var(--spacing-small) 0 0 var(--primary), -var(--spacing-small) 0 0 var(--primary);
   }
 }
+
+.bg-mission-bg{
+  background-image: url(.../dist/img/2332805592.jpg);
+}
